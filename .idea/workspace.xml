@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44a8411f-c946-44a2-a358-ea449073baa5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_cases/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_cases/testcese_3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_runner/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test_runner/testrunner.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/10 More on Variables in Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/11 Data Types in Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/12 Operators in Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/13 Number System Conversion in Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/17 Python BitWise Operators" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/18 Import Math Functions in Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/4 Getting Started with Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/5 Variables in Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/6 List in Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/7 Tuple Set in Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/8 Python Set Path in Windows and Help" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/testcase.py" afterPath="$PROJECT_DIR$/test_cases/testcese_2.py" />
+      <change beforePath="$PROJECT_DIR$/reports/report_20231030_133531.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/reports/report_20231030_133613.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -249,9 +234,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1030" extended-state="7" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13489583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2734375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -317,6 +301,22 @@
           <folding>
             <element signature="e#38#47#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report_20231030_140416.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reports/report_20231030_133613.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
